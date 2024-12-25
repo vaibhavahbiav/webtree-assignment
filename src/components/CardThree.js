@@ -16,4 +16,4 @@ const CardThree = ({ photo, fName, lName, gender, contact }) => {
     )
 }
 
-export default CardThree
+export default CardThree;

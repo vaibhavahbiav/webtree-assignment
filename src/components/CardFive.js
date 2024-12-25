@@ -15,4 +15,4 @@ const CardFive = ({ photo, fName, lName, gender, contact }) => {
     )
 }
 
-export default CardFive
+export default CardFive;
